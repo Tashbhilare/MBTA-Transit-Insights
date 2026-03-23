@@ -2,7 +2,7 @@
 
 A Streamlit web application for analysing Boston subway (MBTA) performance using publicly available LAMP historical data and the MBTA V3 API. Built as part of an MS Data Science project at Northeastern University, aligned with OPMI's Annual Service Delivery Report methodology.
 
-🔗 **Live App**: [mbta-transit-insights.streamlit.app](https://mbta-transit-insights.streamlit.app)
+🔗 **Live App**: [https://mbta-performance-analyzer.streamlit.app/)
 
 ---
 
