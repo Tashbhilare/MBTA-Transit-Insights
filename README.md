@@ -137,12 +137,3 @@ streamlit run app.py
 - [LAMP](https://performancedata.mbta.com) — historical data
 - [MBTA V3 API](https://api-v3.mbta.com) — live data
 
----
-
-## Author
-
-**Tanish Bhilare**
-MS Data Science, Northeastern University
-
-- GitHub: [@Tashbhilare](https://github.com/Tashbhilare)
-- LinkedIn: [tanishdhongade](https:www.linkedin.com/in/tanish-bhilare)
