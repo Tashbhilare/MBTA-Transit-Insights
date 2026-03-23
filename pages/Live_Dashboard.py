@@ -262,7 +262,7 @@ header_html = (
     f" &nbsp;·&nbsp; {now} &nbsp;·&nbsp; Refreshes on page load</div>"
     "</div>"
     "<nav class='mbta-nav'>"
-    "<a href='/' target='_self'>Home</a>"
+    "<a onclick='window.top.location.href=\"/\"' style='cursor:pointer;'>Home</a>"
     "</nav>"
     "</div>"
     "</div>"
