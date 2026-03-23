@@ -145,4 +145,4 @@ streamlit run app.py
 MS Data Science, Northeastern University
 
 - GitHub: [@Tashbhilare](https://github.com/Tashbhilare)
-- LinkedIn: [tanishdhongade](https://linkedin.com/in/tanishdhongade)
+- LinkedIn: [tanishdhongade](https:www.linkedin.com/in/tanish-bhilare)
